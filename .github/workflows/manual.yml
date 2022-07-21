@@ -1,4 +1,4 @@
-name: 15 Minute Update
+name: Manual Update
 on:
   workflow_dispatch:
 
