@@ -26,7 +26,7 @@ Click the file format that you want and copy the URL.
 
 """  # noqa
 
-GITHUB_RAW_URL = 'https://raw.githubusercontent.com/yemixzy/http-proxy/main'  # noqa
+GITHUB_RAW_URL = 'https://raw.githubusercontent.com/yemixzy/proxy-list/main'  # noqa
 
 
 def update_readme(metrics: dict):
