@@ -1,4 +1,4 @@
-name: 15 Minute Update
+name: 10 Minute Update
 on:
   schedule:
     - cron: '*/10 * * * *'
