@@ -13,19 +13,6 @@ SOURCES = [
         }
     },
     {
-        "id": "proxyscan.io",
-        "url": "https://www.proxyscan.io",
-        "method": "GET",
-        "parser": {
-            "pandas": {
-                "table_index": 0,
-                "ip": "Ip Address",
-                "port": "Port",
-                "combined": None,
-            },
-        }
-    },
-    {
         "id": "us-proxy.org",
         "url": "https://www.us-proxy.org",
         "method": "GET",
@@ -85,19 +72,6 @@ SOURCES = [
             "pandas": {
                 "table_index": 0,
                 "ip": "IP address",
-                "port": "Port",
-                "combined": None,
-            },
-        }
-    },
-    {
-        "id": "proxyscan.io",
-        "url": "https://www.proxyscan.io",
-        "method": "GET",
-        "parser": {
-            "pandas": {
-                "table_index": 0,
-                "ip": "Ip Address",
                 "port": "Port",
                 "combined": None,
             },
