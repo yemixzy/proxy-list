@@ -3,7 +3,7 @@
 
 Free Proxy List for everyone
 
-> Scraper found **3903** proxies at the latest update. Usable proxies are below.
+> Scraper found **3902** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -12,9 +12,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxy-list/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxy-list/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|256|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1903|✅|
 |[github.com/almroot/proxylist](https://raw.githubusercontent.com/almroot/proxylist/master/list.txt)|16|✅|
-|[github.com/ShiftyTR/Proxy-List](https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/http.txt)|19|✅|
+|[github.com/ShiftyTR/Proxy-List](https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/http.txt)|18|✅|
 |[github.com/mmpx12/proxy-list](https://raw.githubusercontent.com/mmpx12/proxy-list/master/http.txt)|506|✅|
 
 
