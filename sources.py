@@ -133,4 +133,12 @@ SOURCES = [
             "txt": {},
         }
     },
+    {
+        "id": "github.com/clarketm/proxy-list",
+        "url": "https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt",
+        "method": "GET",
+        "parser": {
+            "txt": {},
+        }
+    },
 ]
