@@ -12,9 +12,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxy-list/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxy-list/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
