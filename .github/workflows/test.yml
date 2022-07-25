@@ -22,7 +22,6 @@ jobs:
         set -e
         git config --global user.email "$COMMIT_EMAIL"
         git config --global user.name "$COMMIT_NAME"
-        d="$(date --rfc-3339=s)"
         git add --all
-        git commit --allow-empty -m "manual-update 📦 $d"
+        git commit --allow-empty -m "experimental-update"
         git push origin exp
