@@ -20,9 +20,12 @@ jobs:
       run: python main.py
     - name: Commit results
       run: |
+        env:
+          COMMIT_EMAIL: ${{ secrets.COMMIT_EMAIL }}
+          COMMIT_NAME: ${{ secrets.COMMIT_NAME }}
         set -e
-        git config --global user.email "109694546+axois@users.noreply.github.com"
-        git config --global user.name "axois"
+        git config --global user.email "$COMMIT_EMAIL"
+        git config --global user.name "$COMMIT_NAME"
         d="$(date --rfc-3339=s)"
         git add --all
         git commit --allow-empty -m "manual-update 📦 $d"
