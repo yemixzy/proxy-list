@@ -20,10 +20,10 @@ jobs:
     - name: Run the scraper
       run: python main.py
     - name: Commit results
-      run: |
-        env:
+      env:
           COMMIT_EMAIL: ${{ secrets.COMMIT_EMAIL }}
           COMMIT_NAME: ${{ secrets.COMMIT_NAME }}
+      run: |
         set -e
         git config --global user.email "$COMMIT_EMAIL"
         git config --global user.name "$COMMIT_NAME"
