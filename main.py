@@ -200,4 +200,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-    what_is_my_ip()
