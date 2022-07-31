@@ -127,7 +127,7 @@ SOURCES = [
     },
     {
         "id": "github.com/mmpx12/proxy-list",
-        "url": "https://raw.githubusercontent.com/mmpx12/proxy-list/master/proxies.txt",
+        "url": ["https://raw.githubusercontent.com/mmpx12/proxy-list/master/https.txt", "https://raw.githubusercontent.com/mmpx12/proxy-list/master/http.txt"],
         "method": "GET",
         "parser": {
             "txt": {},
