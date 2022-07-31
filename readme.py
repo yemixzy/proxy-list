@@ -14,6 +14,7 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
+|[not_checked.txt]({GITHUB_RAW_URL}/proxy-list/not_checked.txt)|`ip_address:port` combined (seperated new line)|{NUMBER_OF_TOTAL_PROXIES}|
 |[data.txt]({GITHUB_RAW_URL}/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|{NUMBER_OF_USABLE_PROXIES}|
 |[data.json]({GITHUB_RAW_URL}/proxy-list/data.json)|`ip, port`|{NUMBER_OF_USABLE_PROXIES}|
 |[data-with-geolocation.json]({GITHUB_RAW_URL}/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|{NUMBER_OF_USABLE_GEO_PROXIES}|
