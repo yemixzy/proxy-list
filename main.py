@@ -177,7 +177,7 @@ def main():
         json.dump(USABLE_PROXIES, f, indent=4)
 
     with open("proxy-list/not_checked.txt", "w") as f:
-        for x in AVAILABLE_PROXIES:
+        for x in list_of_proxies:
             f.write(f'{x.get("ip")}:{x.get("port")}\n')
 
     with open("proxy-list/data.txt", "w") as f:
