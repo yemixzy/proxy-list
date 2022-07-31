@@ -141,4 +141,12 @@ SOURCES = [
             "txt": {},
         }
     },
+    {
+        "id": "github.com/jetkai/proxy-list",
+        "url": "https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies.txt",
+        "method": "GET",
+        "parser": {
+            "txt": {},
+        }
+    },
 ]
