@@ -126,8 +126,16 @@ SOURCES = [
         }
     },
     {
-        "id": "github.com/mmpx12/proxy-list",
-        "url": ["https://raw.githubusercontent.com/mmpx12/proxy-list/master/https.txt", "https://raw.githubusercontent.com/mmpx12/proxy-list/master/http.txt"],
+        "id": "github.com/mmpx12/proxy-list/http",
+        "url": "https://raw.githubusercontent.com/mmpx12/proxy-list/master/http.txt",
+        "method": "GET",
+        "parser": {
+            "txt": {},
+        }
+    },
+    {
+        "id": "github.com/mmpx12/proxy-list/https",
+        "url": "https://raw.githubusercontent.com/mmpx12/proxy-list/master/https.txt",
         "method": "GET",
         "parser": {
             "txt": {},
