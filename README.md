@@ -3,7 +3,7 @@
 
 Free Proxy List for everyone
 
-> Scraper found **9637** proxies at the latest update. Usable proxies are below.
+> Scraper found **9614** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -12,10 +12,10 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[not_checked.txt](https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxy-list/not_checked.txt)|`ip_address:port` combined (seperated new line)|9637|
-|[data.txt](https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|343|
-|[data.json](https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxy-list/data.json)|`ip, port`|343|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|343|
+|[not_checked.txt](https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxy-list/not_checked.txt)|`ip_address:port` combined (seperated new line)|9614|
+|[data.txt](https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|371|
+|[data.json](https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxy-list/data.json)|`ip, port`|371|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|371|
 
 ## Sources
 
@@ -27,14 +27,14 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|213|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|190|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|188|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2002|✅|
-|[github.com/almroot/proxylist](https://raw.githubusercontent.com/almroot/proxylist/master/list.txt)|19|✅|
-|[github.com/ShiftyTR/Proxy-List](https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/http.txt)|36|✅|
-|[github.com/mmpx12/proxy-list/http](https://raw.githubusercontent.com/mmpx12/proxy-list/master/http.txt)|522|✅|
-|[github.com/mmpx12/proxy-list/https](https://raw.githubusercontent.com/mmpx12/proxy-list/master/https.txt)|299|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|223|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1977|✅|
+|[github.com/almroot/proxylist](https://raw.githubusercontent.com/almroot/proxylist/master/list.txt)|22|✅|
+|[github.com/ShiftyTR/Proxy-List](https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/http.txt)|31|✅|
+|[github.com/mmpx12/proxy-list/http](https://raw.githubusercontent.com/mmpx12/proxy-list/master/http.txt)|518|✅|
+|[github.com/mmpx12/proxy-list/https](https://raw.githubusercontent.com/mmpx12/proxy-list/master/https.txt)|295|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/jetkai/proxy-list](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies.txt)|4975|✅|
 
