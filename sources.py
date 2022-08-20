@@ -78,6 +78,14 @@ SOURCES = [
         }
     },
     {
+        "id": "cyber-hub.pw",
+        "url": "https://cyber-hub.pw/statics/proxy.txt",
+        "method": "GET",
+        "parser": {
+            "txt": {},
+        }
+    },
+    {
         "id": "proxyscrape.com",
         "url": "https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all",
         "method": "GET",
