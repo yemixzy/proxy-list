@@ -9,6 +9,13 @@ __pycache__/
 # C extensions
 *.so
 
+# Test something
+README.md
+main.py
+sources.py
+requirements.txt
+readme.py
+
 # Distribution / packaging
 .Python
 build/

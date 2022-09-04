@@ -8,6 +8,7 @@ import itertools
 from sources import SOURCES
 from readme import update_readme
 
+
 logging.basicConfig(
     format='%(asctime)s %(name)s - %(levelname)s - %(message)s',
     level=logging.INFO
