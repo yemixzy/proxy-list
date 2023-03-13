@@ -1,6 +1,6 @@
 # TEMPORARILY DOWN
 
-The proxy scraper is temporarily unavailable, but the last checked proxies are still available.
+The proxy scraper is temporarily unavailable, but the last checked proxies are still downloadable.
 
 # Free HTTP Proxy List 🌍
 
