@@ -2,7 +2,7 @@
 # Free HTTP Proxy List 🌍
 
 Free Proxy List for everyone
-> Scraper found **15724** proxies. Useable are below.
+> Scraper found **16228** proxies. Useable are below.
 
 ## Usage
 
@@ -11,10 +11,10 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[unchecked.txt](https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxies/unchecked.txt)|`ip_address:port` combined (seperated new line)|15724|
-|[http.txt](https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxies/http.txt)|`ip_address:port` combined (seperated new line)|611|
+|[unchecked.txt](https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxies/unchecked.txt)|`ip_address:port` combined (seperated new line)|16228|
+|[http.txt](https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxies/http.txt)|`ip_address:port` combined (seperated new line)|574|
 |[socks4.txt](https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxies/socks4.txt)|`ip_address:port` combined (seperated new line)| |
 |[socks5.txt](https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxies/socks5.txt)|`ip_address:port` combined (seperated new line)| |
-|[data.json](https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxies/data.json)|`ip, port`|611|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxies/data-with-geolocation.json)|`ip, port, geolocation`|611|
+|[data.json](https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxies/data.json)|`ip, port`|574|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxies/data-with-geolocation.json)|`ip, port, geolocation`|574|
 
