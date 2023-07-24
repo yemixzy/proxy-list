@@ -18,3 +18,5 @@ Click the file format that you want and copy the URL.
 |[data.json](https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxies/data.json)|`ip, port`|264|
 |[data-with-geolocation.json](https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxies/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
+## FIX TABLE
+i fixed the table, on next push it should work
