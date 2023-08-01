@@ -1,5 +1,5 @@
 
-# Free HTTP Proxy List 🌍
+# Free Proxy List 🌍
 
 Free Proxy List for everyone
 > Scraper found **28899** proxies. Useable are below.
