@@ -3,8 +3,8 @@
 
 |File|Content|Count|
 |----|-------|-----|
-|[unchecked.txt](https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxies/unchecked.txt)|`ip_address:port` combined (separated new line)|46542|
-|[http.txt](https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxies/http.txt)|`ip_address:port` combined (separated new line)|217|
-|[socks4.txt](https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxies/socks4.txt)|`ip_address:port` combined (separated new line)|126|
-|[socks5.txt](https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxies/socks5.txt)|`ip_address:port` combined (separated new line)|57|
+|[unchecked.txt](https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxies/unchecked.txt)|`ip_address:port` combined (separated new line)|46329|
+|[http.txt](https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxies/http.txt)|`ip_address:port` combined (separated new line)|119|
+|[socks4.txt](https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxies/socks4.txt)|`ip_address:port` combined (separated new line)|112|
+|[socks5.txt](https://raw.githubusercontent.com/yemixzy/proxy-list/main/proxies/socks5.txt)|`ip_address:port` combined (separated new line)|48|
 
